@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 19 17:40:24 2021
-
-@author: emanuel
-"""
 
 import numpy as np
 import huff as HF

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  4 23:18:52 2021
 
-@author: emanuel
-"""
 import numpy as np
 
 def main():

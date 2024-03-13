@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  3 23:49:37 2021
-
-@author: emanuel
-"""
 
 from bwt_encoder import bwt
 from RLE import rle

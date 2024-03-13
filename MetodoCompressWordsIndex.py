@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  8 13:35:04 2021
 
-@author: emanuel
-"""
 import numpy as np
 from Huffman import HuffmanCode as HC
 from HuffmanEncondingFixo4Bits import HuffmanEncoding4Bits as HE4B

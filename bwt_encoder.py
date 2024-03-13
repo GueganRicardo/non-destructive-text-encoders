@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  3 23:44:28 2021
-
-@author: emanuel
-"""
 #https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
 
 class bwt:

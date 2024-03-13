@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 19 18:31:57 2021
-
-@author: emanuel
-"""
 from HuffmanEncondingFixo4Bits import HuffmanEncoding4Bits as HE4B
 def main():
     dicionario=[]

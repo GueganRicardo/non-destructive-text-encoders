@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 16 14:28:29 2021
-
-@author: emanuel
-"""
-
 def main():
     nomefich="random"
     with open(nomefich+"huffmandicio.txt","r")as dic:

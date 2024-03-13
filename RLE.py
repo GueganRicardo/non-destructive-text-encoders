@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  4 00:27:33 2021
 
-@author: emanuel
-"""
 #https://www.pythonpool.com/run-length-encoding-python/
 #a seguinte class foi retirada deste site, sugeita a algumas alteracoes
 class rle:

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  8 14:27:34 2021
-
-@author: emanuel
-"""
 from HuffmanEncondingFixo4Bits import HuffmanEncoding4Bits as HE4B
 
 def decodeDicio(textocodificado,chave):#recebe o texto a descodificar e a string que serve de dicionario

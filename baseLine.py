@@ -1,9 +1,3 @@
-    # -*- coding: utf-8 -*-
-"""
-    Created on Tue Nov 16 09:42:40 2021
-    
-    @author: emanuel
-    """
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg

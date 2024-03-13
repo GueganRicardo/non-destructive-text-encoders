@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  8 14:06:40 2021
-
-@author: emanuel
-"""
 from MetodoCompressWordsIndex import CompressWords as CW
 from HuffmanEncondingFixo4Bits import HuffmanEncoding4Bits as HE4B
 

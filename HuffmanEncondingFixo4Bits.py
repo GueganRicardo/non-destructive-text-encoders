@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  8 13:57:11 2021
-
-@author: emanuel
-"""
 
 class HuffmanEncoding4Bits:
     #recebe uma lista com numeros e codifica o conteudo de lista numa string de bits usando os seguites codigos fixos para codificar cada elemento

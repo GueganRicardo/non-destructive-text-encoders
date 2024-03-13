@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 12 21:17:18 2021
-
-@author: emanuel
-"""
-
 import math
 import sys
 global probabilities

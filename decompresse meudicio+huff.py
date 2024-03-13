@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 13 23:05:45 2021
-
-@author: emanuel
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  8 14:27:34 2021
-
-@author: emanuel
-"""
 from HuffmanEncondingFixo4Bits import HuffmanEncoding4Bits as HE4B
 #adicionar possivel decoder para o dicionario metodo
 #consideracao o ficheiro tem de acabar com um espaco para apanhar o ultimo carater

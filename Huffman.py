@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 11 22:30:42 2021
-
-@author: emanuel
-"""
-
 
 global probabilities
 
